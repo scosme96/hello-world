@@ -1,4 +1,4 @@
 # hello-world
 Just Another Repository
-Hello Poeple
-Im Sandy an i only got about 3 hours of sleep today.
+Hello People
+Im Sandy and I only got about 3 hours of sleep today.
